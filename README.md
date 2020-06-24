@@ -1,2 +1,2 @@
 # dj-book-apps
-This my first project on Github
+Django-book-apps source code 
