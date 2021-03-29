@@ -1,2 +1,2 @@
-# dj-book-apps
+# Book-Apps
 Django-book-apps source code 
